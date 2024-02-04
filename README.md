@@ -61,8 +61,6 @@ Here are some ideas to get you started:
 <br/>
 
 ## Use To Code
-
-<p align="center">
   ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![JAVA](https://img.shields.io/badge/JAVA-DC143C?style=for-the-badge&logo=java&logoColor=white)
@@ -75,7 +73,6 @@ Here are some ideas to get you started:
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-</p>
 
 <br/>
 
@@ -85,7 +82,7 @@ Here are some ideas to get you started:
 [![Distributed Data Base](https://github-readme-stats.vercel.app/api/pin/?username=Ari3839&repo=BDDFinalProject&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ari3839/BDDFinalProject)
 [![Google clone](https://github-readme-stats.vercel.app/api/pin/?username=Ari3839&repo=GoogleClonePurple&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ari3839/GoogleClonePurple)
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Ari3839?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
@@ -100,7 +97,6 @@ Here are some ideas to get you started:
 
 <a> 
     <a href="https://github.com/Ari3839"><img alt="Ari's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ari3839&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-
   <a href="https://github.com/Ari3839"><img alt="Ari's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ari3839&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
