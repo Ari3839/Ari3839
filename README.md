@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
- <a href="[https://alsiam.com](https://saber-eyebrow-039.notion.site/Ariadna-L-zaro-s-Portfolio-f530daad11e24ad68c2f5761e02c6d1b)](https://saber-eyebrow-039.notion.site/Ariadna-L-zaro-s-Portfolio-f530daad11e24ad68c2f5761e02c6d1b" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ <a href="[https://saber-eyebrow-039.notion.site/Ariadna-L-zaro-s-Portfolio-f530daad11e24ad68c2f5761e02c6d1b](https://saber-eyebrow-039.notion.site/Ariadna-L-zaro-s-Portfolio-f530daad11e24ad68c2f5761e02c6d1b)" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ari3839" />
  </a>
  <a href="[https://www.linkedin.com/in/ariadna-lazaro-martinez](https://www.linkedin.com/in/ariadna-lazaro-martinez)" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ari3839"/>
  </a>
 </p>
 <br />
